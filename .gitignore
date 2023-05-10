@@ -1,0 +1,6 @@
+/resources/images/img_resources
+*.pyc
+*.psd
+high_score.txt
+__pycache__/
+.DS_Store
